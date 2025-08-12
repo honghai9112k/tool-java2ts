@@ -4,9 +4,11 @@ uploads/*
 !uploads/.gitkeep
 # outputs/*
 # !outputs/.gitkeep
+outputs/
 *.log
 .env
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+examples/
